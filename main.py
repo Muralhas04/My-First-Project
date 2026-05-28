@@ -10,3 +10,5 @@ numero2 = float(input("Digite o segundo número: "))
 soma = numero1 + numero2
 
 print("A soma é:", soma)
+
+print("Obrigado por usar o programa, até mais!")
